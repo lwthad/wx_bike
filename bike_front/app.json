@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/go/go",
+    "pages/identify/identify",
+    "pages/deposit/deposit",
+    "pages/register/register",
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "小驴单车",
+    "navigationBarTextStyle":"black"
+  }
+}

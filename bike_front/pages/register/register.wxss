@@ -1,0 +1,18 @@
+/* pages/register/register.wxss */
+.state{
+  clear:both;
+  height: 50px;
+  /* width: auto; */
+  padding-top: 20px;
+  color: #7F8181;
+  background-color: #252A33;
+}
+.flag{
+  float:left;
+  /* display: inline-block; */
+  margin-left: 30px;
+  font-size: 15px;
+}
+.state .tab{
+  color: #1AAD19;
+}

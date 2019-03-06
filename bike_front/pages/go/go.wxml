@@ -1,0 +1,15 @@
+<!--pages/go/go.wxml-->
+<view class='state'>
+    <view class='flag'>手机绑定</view>
+    <view class='flag'>押金充值</view>
+    <view class='flag'>实名认证</view>
+    <view class='flag tab'>开始用车</view> 
+</view>
+
+<view>
+    <text>身份认证成功，现在开始骑车吧。</text>
+</view >
+
+<view>
+    <button type='primary' bindtap='deposit'>去开锁</button>
+</view>
